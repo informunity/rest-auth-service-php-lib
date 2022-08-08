@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e469f6e-88e6-42de-a431-168194c770cf" name="andrew.informunity.ru">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/andrew.informunity.ru" accessType="SFTP" host="andrew.informunity.ru" port="22" sshConfigId="4687db47-0b4d-45db-b5c3-cc1c2f51ee88" sshConfig="bitrix@andrew.informunity.ru:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
