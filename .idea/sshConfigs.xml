@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="andrew.informunity.ru" id="4687db47-0b4d-45db-b5c3-cc1c2f51ee88" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="bitrix" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</project>
