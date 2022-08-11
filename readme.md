@@ -33,4 +33,4 @@ $restAuthClient->getAccessToken([
 ```
 
 #### Прочее
-+ настроен repository mirroring в корпоративный gitlab
++ настроен repository mirroring в корпоративный github

@@ -1,6 +1,7 @@
 {
     "name": "informunity/rest-auth-service-php-lib",
     "type": "library",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "InformUnity\\": "src/"
